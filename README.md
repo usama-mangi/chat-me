@@ -128,7 +128,7 @@ This project is a robust demonstration of a modern, full-stack application archi
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/chat-me.git](https://github.com/your-username/chat-me.git)
+    git clone [https://github.com/usama-mangi/chat-me.git](https://github.com/usama-mangi/chat-me.git)
     cd chat-me
     ```
 
